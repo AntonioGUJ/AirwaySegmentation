@@ -14,7 +14,7 @@ pandas==1.0.3
 pydicom==1.4.2
 scikit-image==0.17.2
 scikit-learn==0.23.1
-scipy==1.4.1
+scipy==1.11.1
 seaborn==0.10.1
 SimpleITK==1.2.4
 tb-nightly==1.14.0a20190301
