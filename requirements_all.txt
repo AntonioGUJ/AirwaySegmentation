@@ -27,7 +27,7 @@ torch==1.8.1
 torchsummary==1.5.1
 torchvision==0.9.1
 tox==3.18.0
-tqdm==4.46.0
+tqdm==4.66.3
 
 # other external requirements
 click
